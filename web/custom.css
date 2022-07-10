@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23-dic-2019, 14:16:35
+    Author     : ROLAN
+*/
+.masthead{
+
+    height: 25vh;
+    min-height: 200px;
+    background-image: url("/Practicas/img/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+nav{
+    height: 40px;
+    width: 100%;
+    background: black;
+
+}
+.menu{
+    list-style: none;
+
+}
+.menu li a{
+
+    color: white;
+    margin-left: 10px;
+    float: left;
+    font-family: Arial , cursive;
+}
+.reg{
+    opacity: 1;
+
+}
