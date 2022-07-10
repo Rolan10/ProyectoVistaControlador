@@ -1,7 +1,7 @@
 # ProyectoVistaControlador
 Proyecto realizado en NetBeans
 
-Pagina web implementando modelo Vista Controlador. 
+Pagina web implementando modelo Vista Controlador. \n
 	Base de datos y persistencia de objetos (en local)
 	Estilos CSS y Bootstrap
 	Frontend : jps js
